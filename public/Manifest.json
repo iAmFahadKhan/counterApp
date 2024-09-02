@@ -1,0 +1,9 @@
+{
+  "name": "Counter-React-App",
+  "short_name": "Counter-App",
+  "description": "N/A",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
